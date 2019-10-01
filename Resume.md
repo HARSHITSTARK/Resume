@@ -63,7 +63,7 @@ calculation of cycle time and mass production assembly and identified the issues
 ◦ Built products with ARM Cortex M4 & M0, Arduino, and communication protocols like SPI, I2C, UART, Bluetooth.
 ```
 ## PROJECTS
-```
+
 #### Gesture Recognition System | Arduino, Android Studio:
 - Recognized 3 hand gestures using accelerometer data from Arduino and
 fed it to an Android phone using low cost BLE. Implemented machine learning (logistic regression) to make the system efficient.
@@ -74,7 +74,7 @@ fed it to an Android phone using low cost BLE. Implemented machine learning (log
 OCR engine(Tesseract library) for converting the image to editable text and used google TTS tool to generate the speech for text.
 #### Unseen Area Mapping Using Swarm Robotics|ATmega 2560, Embedded C:
 - Implemented a swarm intelligence algorithm (Particle Swarm Optimization) using 3 robots embedded with IR proximity sensors, wheel encoders, Zigbee modules to effectively draw a map of an unseen area using MATLAB.
-```
+
 ## ACHIEVEMENTS
 ```
 - T-mobile IoT Hackathon|Runners-Up: Developed a smart parking system which counts the number of parking slots available
