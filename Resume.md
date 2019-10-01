@@ -32,12 +32,15 @@ Relevant Coursework: Embedded Systems, Micro-processors & Peripherals, Micro-con
 #### Technical Program Manager    |  Oct 2018 – Mar 2019
 
 ```
-◦ mproved the delivery of service and devices by coaching product owners, scrum masters, and development team members in
+◦ Improved the delivery of service and devices by coaching product owners, scrum masters, and development team members in
 all aspects of the standard Agile process, including epic and user story creation, release planning, backlog estimation, sprint
 planning, daily standups, retrospectives, and sprint reviews.
+
 ◦ Lead cross-functional collaboration to accelerate process maturity and product feasibility in proof-of-concept phase.
+
 ◦ Worked with embedded firmware and FPGA hardware team members to assist management in defining program scope,
 building schedule and releasing client SDKs and APIs and MEMS design.
+
 ◦ Managed software bugs and issues by ensuring their progress, scope and completion using tools such as Jira, Git.
 ```
 ### •Google LLC Mountain View, CA
