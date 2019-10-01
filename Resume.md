@@ -17,7 +17,7 @@ Lean Six Sigma Foundations & Green Belt Course - Lynda.com
 #### Bachelor of Engineering in Electronics Engineering | GPA: 3.5  | Jul 2012 – May 2016
 
 ```
-Relevant Coursework: Embedded Systems, Micro-processors & Peripherals, Micro-controllers, Digital Circuit Design, 
+Relevant Coursework: Embedded Systems, Micro-processors & Peripherals, Micro-controllers, Digital Circuit Design,
 Robotics, Structered Programming Approach.
 ```
 ## TECHNICALSKILLS
@@ -33,11 +33,11 @@ Robotics, Structered Programming Approach.
 #### Technical Program Manager    |  Oct 2018 – Mar 2019
 
 ```
-◦ Improved the delivery of service and devices by coaching product owners, scrum masters, and development team 
-members in all aspects of the standard Agile process, including epic and user story creation, release planning, 
+◦ Improved the delivery of service and devices by coaching product owners, scrum masters, and development team
+members in all aspects of the standard Agile process, including epic and user story creation, release planning,
 backlog estimation, sprintplanning, daily standups, retrospectives, and sprint reviews.
 
-◦ Lead cross-functional collaboration to accelerate process maturity and product feasibility in proof-of-concept 
+◦ Lead cross-functional collaboration to accelerate process maturity and product feasibility in proof-of-concept
 phase.
 
 ◦ Worked with embedded firmware and FPGA hardware team members to assist management in defining program scope,
@@ -52,16 +52,16 @@ building schedule and releasing client SDKs and APIs and MEMS design.
 ◦ Introduced scalable NPI processes and tooling for high-volume production of Google Home hardware.
 
 ◦ Using Six Sigma techniques improved the process around the management of FATP during the PDP to automate the
-calculation of cycle time and mass production assembly and identified the issues and causes during the EVT and 
+calculation of cycle time and mass production assembly and identified the issues and causes during the EVT and
 DVT build.
 
-◦ Drove FAI and tolerance analysis to predict the behavior of components in assembly to maximize yield and 
+◦ Drove FAI and tolerance analysis to predict the behavior of components in assembly to maximize yield and
 minimize rework.
 
-◦ Performed FMEA to manage critical path sub-assemblies, components, and subsystems at contract manufacturers 
+◦ Performed FMEA to manage critical path sub-assemblies, components, and subsystems at contract manufacturers
 in Asia.
 
-◦ Performed data-driven failure analysis with database tools & took on-the-fly corrective actions during 
+◦ Performed data-driven failure analysis with database tools & took on-the-fly corrective actions during
 production.
 
 ◦ Managed Product BOM using PLM applications while interfacing with suppliers, ODMs & CM partners.
