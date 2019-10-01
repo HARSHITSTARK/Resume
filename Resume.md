@@ -74,7 +74,7 @@ calculation of cycle time and mass production assembly and identified the issues
 ```
 ## PROJECTS
 
-#### Gesture Recognition System | Arduino, Android Studio:
+- Gesture Recognition System | Arduino, Android Studio:
 - Recognized 3 hand gestures using accelerometer data from Arduino and
 fed it to an Android phone using low cost BLE. Implemented machine learning (logistic regression) to make the system efficient.
 #### IOT based Traffic Monitoring and Management System:|Raspberry Pi, Python: 
