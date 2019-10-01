@@ -32,26 +32,25 @@ Relevant Coursework: Embedded Systems, Micro-processors & Peripherals, Micro-con
 #### Technical Program Manager    |  Oct 2018 – Mar 2019
 
 ```
- Improved the delivery of service and devices by coaching product owners, scrum masters, and development team members in
+◦ mproved the delivery of service and devices by coaching product owners, scrum masters, and development team members in
 all aspects of the standard Agile process, including epic and user story creation, release planning, backlog estimation, sprint
 planning, daily standups, retrospectives, and sprint reviews.
- Lead cross-functional collaboration to accelerate process maturity and product feasibility in proof-of-concept phase.
- Worked with embedded firmware and FPGA hardware team members to assist management in defining program scope,
+◦ Lead cross-functional collaboration to accelerate process maturity and product feasibility in proof-of-concept phase.
+◦ Worked with embedded firmware and FPGA hardware team members to assist management in defining program scope,
 building schedule and releasing client SDKs and APIs and MEMS design.
- Managed software bugs and issues by ensuring their progress, scope and completion using tools such as Jira, Git.
+◦ Managed software bugs and issues by ensuring their progress, scope and completion using tools such as Jira, Git.
 ```
 ### •Google LLC Mountain View, CA
-#### Systems Engineer | Jul 2016 – Jul 2018
+#### Technical Program Manager Intern   |  Jun 2018 - Sept 2018 
 
 ```
-◦ Worked closely with teams across Business Units to create automation frameworks and comprehensive test
-tools following Agile methodology.
-◦ Wrote and executed various MYSQL database queries using Python MySQL connector and MySQL dB package.
-◦ Created Automation scripts using Python for testing various applications as well as the integrated
-  these applications (API’s & UI’s) based on REST calls using Selenium and Python, phrasing the JSON responses.
-  ◦ Lead a team of four, which was responsible for developing automation tools. Supervised and delegated tasks,
-  contributed to technical solutions spanning the SDLC, from design to code development.
-  ◦ Designed data visualizations to present current impact and growth, providing insights to the higher management.
+◦ Introduced scalable NPI processes and tooling for high-volume production of Google Home hardware.
+◦ Using Six Sigma techniques improved the process around the management of FATP during the PDP to automate the
+calculation of cycle time and mass production assembly and identified the issues and causes during the EVT and DVT build.
+◦ Drove FAI and tolerance analysis to predict the behavior of components in assembly to maximize yield and minimize rework.
+◦ Performed FMEA to manage critical path sub-assemblies, components, and subsystems at contract manufacturers in Asia.
+◦ Performed data-driven failure analysis with database tools & took on-the-fly corrective actions during production.
+◦ Managed Product BOM using PLM applications while interfacing with suppliers, ODMs & CM partners.
   
   ```
 ### •Nevon Solutions Pvt. Ltd. Mumbai, India
@@ -64,17 +63,20 @@ tools following Agile methodology.
 ◦ Built products with ARM Cortex M4 & M0, Arduino, and communication protocols like SPI, I2C, UART, Bluetooth.
 ```
 ## PROJECTS
-
-#### Driverless Car using AI|Nvidia Jetson TX2, ROS & Python: 
-- Built a self-drive car and navigated it in a known map by integrating with state-estimation for closed-loop control. Programmed the car in Linux and Python along with ROS for interfacing to the bot.
+```
+#### Gesture Recognition System | Arduino, Android Studio:
+- Recognized 3 hand gestures using accelerometer data from Arduino and
+fed it to an Android phone using low cost BLE. Implemented machine learning (logistic regression) to make the system efficient.
 #### IOT based Traffic Monitoring and Management System:|Raspberry Pi, Python: 
 - Built a Twilio NB-IOT based system that detects traffic density on a route and sends a JSON data to Azure. Created Azure database to store sensor values and send alert notifications to the commuters on the route.
-#### Gesture control Music App|Android Studio & Arduino:
-- Developed a gesture controlled Music App, performing signal processing on the data from accelerometer to detect different gestures.
+#### Text-to-Speech Device j Raspberry Pi, Python:
+- Designed a device which captures an image, process it using OpenCV library, apply
+OCR engine(Tesseract library) for converting the image to editable text and used google TTS tool to generate the speech for text.
 #### Unseen Area Mapping Using Swarm Robotics|ATmega 2560, Embedded C:
 - Implemented a swarm intelligence algorithm (Particle Swarm Optimization) using 3 robots embedded with IR proximity sensors, wheel encoders, Zigbee modules to effectively draw a map of an unseen area using MATLAB.
-
+```
 ## ACHIEVEMENTS
-
+```
 - T-mobile IoT Hackathon|Runners-Up: Developed a smart parking system which counts the number of parking slots available
     using sensors, upload the data on an IoT server and send that info as a text message to the employees of T-Mobile using Twilio API.
+```
