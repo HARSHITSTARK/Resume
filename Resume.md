@@ -28,7 +28,7 @@ Relevant Coursework: Embedded Systems, Micro-processors & Peripherals, Micro-con
 ```
 ## EXPERIENCE
 
-### •MicroVision Inc. Redmond, WA
+### • MicroVision Inc. Redmond, WA
 #### Technical Program Manager    |  Oct 2018 – Mar 2019
 
 ```
@@ -43,7 +43,7 @@ building schedule and releasing client SDKs and APIs and MEMS design.
 
 ◦ Managed software bugs and issues by ensuring their progress, scope and completion using tools such as Jira, Git.
 ```
-### •Google LLC Mountain View, CA
+### • Google LLC Mountain View, CA
 #### Technical Program Manager Intern   |  Jun 2018 - Sept 2018 
 
 ```
@@ -61,7 +61,7 @@ calculation of cycle time and mass production assembly and identified the issues
 ◦ Managed Product BOM using PLM applications while interfacing with suppliers, ODMs & CM partners.
   
   ```
-### •Nevon Solutions Pvt. Ltd. Mumbai, India
+### • Nevon Solutions Pvt. Ltd. Mumbai, India
 #### Embedded Engineer Intern | Jun 2015 – Jan 2016
 
 ```
@@ -77,12 +77,12 @@ calculation of cycle time and mass production assembly and identified the issues
 ### • Gesture Recognition System | Arduino, Android Studio:
 ◦ Recognized 3 hand gestures using accelerometer data from Arduino and
 fed it to an Android phone using low cost BLE. Implemented machine learning (logistic regression) to make the system efficient.
-### •IOT based Traffic Monitoring and Management System:|Raspberry Pi, Python: 
+### • IOT based Traffic Monitoring and Management System:|Raspberry Pi, Python: 
 ◦ Built a Twilio NB-IOT based system that detects traffic density on a route and sends a JSON data to Azure. Created Azure database to store sensor values and send alert notifications to the commuters on the route.
-### •Text-to-Speech Device j Raspberry Pi, Python:
+### • Text-to-Speech Device j Raspberry Pi, Python:
 ◦ Designed a device which captures an image, process it using OpenCV library, apply
 OCR engine(Tesseract library) for converting the image to editable text and used google TTS tool to generate the speech for text.
-### •Unseen Area Mapping Using Swarm Robotics|ATmega 2560, Embedded C:
+### • Unseen Area Mapping Using Swarm Robotics|ATmega 2560, Embedded C:
 ◦ Implemented a swarm intelligence algorithm (Particle Swarm Optimization) using 3 robots embedded with IR proximity sensors, wheel encoders, Zigbee modules to effectively draw a map of an unseen area using MATLAB.
 
 ## ACHIEVEMENTS
