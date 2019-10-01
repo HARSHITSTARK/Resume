@@ -79,7 +79,7 @@ OCR engine(Tesseract library) for converting the image to editable text and used
 - Implemented a swarm intelligence algorithm (Particle Swarm Optimization) using 3 robots embedded with IR proximity sensors, wheel encoders, Zigbee modules to effectively draw a map of an unseen area using MATLAB.
 
 ## ACHIEVEMENTS
-```
-- T-mobile IoT Hackathon|Runners-Up: Developed a smart parking system which counts the number of parking slots available
+
+#### T-mobile IoT Hackathon|Runners-Up: Developed a smart parking system which counts the number of parking slots available
     using sensors, upload the data on an IoT server and send that info as a text message to the employees of T-Mobile using Twilio API.
-```
+
