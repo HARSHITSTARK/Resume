@@ -21,10 +21,10 @@ Relevant Coursework: Embedded Systems, Micro-processors & Peripherals, Micro-con
 ```
 ## TECHNICALSKILLS
 ```
-- Languages: Embedded C, Python, Matlab, Assembly Language.
-- Tools: Agile, Scrum, Altium, Eagle, AVR Studio, Proteus, Eclipse, Anaconda2, Office 365.
-- Hardware: ARM cortex M7, Node MCU, Arduino, Cypress PSoC 4, AVR, Stm32.
-- Software: Jira, Microsoft Project, Microsoft Visual Studio, Git, Docker, SSH, Twilio, API, Linux, TCP/IP.
+◦ Languages: Embedded C, Python, Matlab, Assembly Language.
+◦ Tools: Agile, Scrum, Altium, Eagle, AVR Studio, Proteus, Eclipse, Anaconda2, Office 365.
+◦ Hardware: ARM cortex M7, Node MCU, Arduino, Cypress PSoC 4, AVR, Stm32.
+◦ Software: Jira, Microsoft Project, Microsoft Visual Studio, Git, Docker, SSH, Twilio, API, Linux, TCP/IP.
 ```
 ## EXPERIENCE
 
