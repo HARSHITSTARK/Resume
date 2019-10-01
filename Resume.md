@@ -48,11 +48,16 @@ building schedule and releasing client SDKs and APIs and MEMS design.
 
 ```
 ◦ Introduced scalable NPI processes and tooling for high-volume production of Google Home hardware.
+
 ◦ Using Six Sigma techniques improved the process around the management of FATP during the PDP to automate the
 calculation of cycle time and mass production assembly and identified the issues and causes during the EVT and DVT build.
+
 ◦ Drove FAI and tolerance analysis to predict the behavior of components in assembly to maximize yield and minimize rework.
+
 ◦ Performed FMEA to manage critical path sub-assemblies, components, and subsystems at contract manufacturers in Asia.
+
 ◦ Performed data-driven failure analysis with database tools & took on-the-fly corrective actions during production.
+
 ◦ Managed Product BOM using PLM applications while interfacing with suppliers, ODMs & CM partners.
   
   ```
@@ -61,8 +66,10 @@ calculation of cycle time and mass production assembly and identified the issues
 
 ```
 ◦ Experienced working on complete life-cycle of product development with an experienced cross-disciplinary team.
+
 ◦ Designed the PCB layouts using Altium, assisted in firmware developing & testing of a robot arm based on
   ARM cortex M7.
+  
 ◦ Built products with ARM Cortex M4 & M0, Arduino, and communication protocols like SPI, I2C, UART, Bluetooth.
 ```
 ## PROJECTS
@@ -80,6 +87,6 @@ OCR engine(Tesseract library) for converting the image to editable text and used
 
 ## ACHIEVEMENTS
 
-#### T-mobile IoT Hackathon|Runners-Up: Developed a smart parking system which counts the number of parking slots available
+- T-mobile IoT Hackathon|Runners-Up: Developed a smart parking system which counts the number of parking slots available
     using sensors, upload the data on an IoT server and send that info as a text message to the employees of T-Mobile using Twilio API.
 
