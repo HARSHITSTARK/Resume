@@ -17,8 +17,8 @@ Lean Six Sigma Foundations & Green Belt Course - Lynda.com
 #### Bachelor of Engineering in Electronics Engineering | GPA: 3.5  | Jul 2012 – May 2016
 
 ```
-Relevant Coursework: Embedded Systems, Micro-processors & Peripherals, Micro-controllers, Digital Circuit Design,
-Robotics, Structered Programming Approach.
+Relevant Coursework: Embedded Systems, Micro-processors & Peripherals, Micro-controllers and applications,
+Digital Circuit Design, Robotics, Structered Programming Approach.
 ```
 ## TECHNICALSKILLS
 ```
