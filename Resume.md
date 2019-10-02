@@ -43,7 +43,8 @@ proof-of-concept phase.
 ◦ Worked with embedded firmware and FPGA hardware team members to assist management in defining program scope,
 building schedule and releasing client SDKs and APIs and MEMS design.
 
-◦ Managed software bugs & issues by ensuring their progress, scope and completion using tools such as Jira, Git.
+◦ Managed software bugs & issues by ensuring their progress, scope and completion using tools such as Jira,
+Azure Devops, Git.
 ```
 ### • Google LLC Mountain View, CA
 #### Technical Program Manager Intern   |  Jun 2018 - Sept 2018 
