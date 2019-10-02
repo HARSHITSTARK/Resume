@@ -33,17 +33,17 @@ Digital Circuit Design, Robotics, Structered Programming Approach.
 #### Technical Program Manager    |  Oct 2018 – Mar 2019
 
 ```
-◦ Improved the delivery of service and devices by coaching product owners, scrum masters, and development team
-members in all aspects of the standard Agile process, including epic and user story creation, release planning,
+◦ Improved the delivery of service and devices by coaching product owner, scrum master, and development team
+members in all aspects of the standard Agile process, including epic & user story creation, release planning,
 backlog estimation, sprintplanning, daily standups, retrospectives, and sprint reviews.
 
-◦ Lead cross-functional collaboration to accelerate process maturity and product feasibility in proof-of-concept
-phase.
+◦ Lead cross-functional collaboration to accelerate the process maturity and product feasibility in the 
+proof-of-concept phase.
 
 ◦ Worked with embedded firmware and FPGA hardware team members to assist management in defining program scope,
 building schedule and releasing client SDKs and APIs and MEMS design.
 
-◦ Managed software bugs and issues by ensuring their progress, scope and completion using tools such as Jira, Git.
+◦ Managed software bugs & issues by ensuring their progress, scope and completion using tools such as Jira, Git.
 ```
 ### • Google LLC Mountain View, CA
 #### Technical Program Manager Intern   |  Jun 2018 - Sept 2018 
